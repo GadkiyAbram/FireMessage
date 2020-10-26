@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "968233223864",
+    "firebase_url": "https://firemessage-956f5.firebaseio.com",
+    "project_id": "firemessage-956f5",
+    "storage_bucket": "firemessage-956f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968233223864:android:eeac8984da3e0cf0f9964d",
+        "android_client_info": {
+          "package_name": "com.example.firemessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968233223864-hqncbf9kgcd7mh94fnvgg3a4l0v9265q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Mam6QB_k2QPetPWfIC9Mmyes1w-tUT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968233223864-hqncbf9kgcd7mh94fnvgg3a4l0v9265q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
